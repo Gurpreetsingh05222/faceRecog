@@ -3,7 +3,7 @@ import React from 'react';
 const ImageLinkForm = ({onInputChange, onButtonSubmit}) => {
     return(
         <div>
-            <p className="f3">
+            <p className="f3 white">
                 {'This App will detect faces in pictures you upload.'}
             </p>
             <div className='center w-60'>
