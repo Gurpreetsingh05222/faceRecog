@@ -19,6 +19,7 @@ Backend is developed in nodeJs framework ExpressJs. The database system used is 
 To install the dependencies
 
 ### node server.js / If nodemon installed then nodemon server.js
+To start the server.
 
 There are different packages used in backend development :-
 
