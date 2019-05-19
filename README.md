@@ -1,6 +1,8 @@
 This is a image recoginition app the front-end is developed in ReactJS and backend in nodeJs.
 It uses the image recognition api.
 
+#Frontend
+
 ## Steps to follow for running this project on your machine
 
 ### npm install
@@ -23,6 +25,6 @@ To start the server.
 
 There are different packages used in backend development :-
 
-* KnexJs - Knex.js is a query builder. It supports various Database systems.
-* CORS - CORS is a node.js package for providing a Connect/Express middleware that can be used to enable CORS with various options.
-* Bcrypt - Bcrypt is used to hash the user password.
+* KnexJs - [Knex.js](https://knexjs.org/) is a query builder. It supports various Database systems.
+* CORS - [CORS](https://www.npmjs.com/package/cors) is a node.js package for providing a Connect/Express middleware that can be used to enable CORS with various options.
+* Bcrypt - [Bcrypt](https://www.npmjs.com/package/bcrypt) is used to hash the user password.
