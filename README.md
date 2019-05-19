@@ -23,6 +23,6 @@ To start the server.
 
 There are different packages used in backend development :-
 
-*KnexJs - Knex.js is a query builder. It supports various Database systems.
-*CORS - CORS is a node.js package for providing a Connect/Express middleware that can be used to enable CORS with various options.
-*Bcrypt - Bcrypt is used to hash the user password.
+* KnexJs - Knex.js is a query builder. It supports various Database systems.
+* CORS - CORS is a node.js package for providing a Connect/Express middleware that can be used to enable CORS with various options.
+* Bcrypt - Bcrypt is used to hash the user password.
