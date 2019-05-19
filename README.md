@@ -8,3 +8,20 @@ To install the dependencies.
 
 ### npm start
 To start the server and run the app.
+
+#Backend Server
+
+Backend is developed in nodeJs framework ExpressJs. The database system used is MySql.
+
+## Steps to follow for running the backend server
+
+### npm install
+To install the dependencies
+
+### node server.js / If nodemon installed then nodemon server.js
+
+There are different packages used in backend development :-
+
+*KnexJs - Knex.js is a query builder. It supports various Database systems.
+*CORS - CORS is a node.js package for providing a Connect/Express middleware that can be used to enable CORS with various options.
+*Bcrypt - Bcrypt is used to hash the user password.
