@@ -1,7 +1,7 @@
 This is a image recoginition app the front-end is developed in ReactJS and backend in nodeJs.
 It uses the image recognition api.
 
-#Frontend
+# Frontend
 
 ## Steps to follow for running this project on your machine
 
